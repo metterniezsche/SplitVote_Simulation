@@ -22,7 +22,7 @@ All data are synthetic. No client or real data are used or inferred.
 | File | Description |
 |------|--------------|
 | `SplitVote_Simulation.ipynb` | Main Jupyter Notebook — reproducible end-to-end demo |
-| `SplitVote_Simulation.html` | Pre-rendered HTML version for web preview |
+| `index.html` | Pre-rendered HTML version for web preview |
 | `README.md` | This document |
 | `LICENSE` | Apache License 2.0 |
 | *(optional future)* `/assets/` | static plots, thumbnails, exported visuals |
